@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-[![Jaweria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiamir&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiamir&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jaweria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiamir&hide=stars,prs)]
+
+[![Jaweria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiamir&show_icons=true)]
+
 
 <!--
 **Jiamir/Jiamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
