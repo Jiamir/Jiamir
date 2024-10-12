@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Jaweria's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Jaweria's GitHub stats](https://github-readme-stats.vercel.app/api?Jiamir=Jiamir&show_icons=true)
 <!--
 **Jiamir/Jiamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
