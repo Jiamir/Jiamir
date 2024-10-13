@@ -6,10 +6,6 @@
 - 🚀 Constantly learning and expanding my **coding** and **designing** skills.
 - 💬 Reach out to discuss anything from **front-end development** to **UI/UX design**—I'm always up for an engaging conversation!
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jiamir.Jiamir)
-
-### Hacktoberfest badges
-[![@jiamir's Holopin board](https://holopin.me/jiamir)](https://holopin.io/@jiamir)
 
 ### Progress
 
