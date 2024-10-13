@@ -6,7 +6,6 @@
 - 🚀 Constantly learning and expanding my **coding** and **designing** skills.
 - 💬 Reach out to discuss anything from **front-end development** to **UI/UX design**—I'm always up for an engaging conversation!
 
-
 ### Progress
 
 [![Jiamir's GitHub | Stats](https://stats.quine.sh/Jiamir/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jiamir)
