@@ -8,7 +8,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jiamir.Jiamir)
 
-[![@Jiamir's Holopin board](https://holopin.me/Jiamir)](https://holopin.io/@Jiamir)
+### Progress
+
+[![Jiamir's GitHub | Stats](https://stats.quine.sh/Jiamir/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Jiamir)
 
 
 
