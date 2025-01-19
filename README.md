@@ -1,9 +1,9 @@
 <h1 align="center"> Hello <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm Jaweria Amir </h1>
 
 ## 👩🏻‍💻 About Me
-- 🖥️ Studying **Software Engineering** meanwhile exploring **Web Development** and **Creative Design**.
-- 🚀 Constantly learning and expanding my **coding** and **designing** skills.
-- 💬 Reach out to discuss anything from **front-end development** to **UI/UX design**—I'm always up for an engaging conversation!
+- Studying **Software Engineering** meanwhile exploring **Web Development** and **Creative Design**.
+- Passionate about expanding my skills in technology and visual creativity through ongoing learning.
+- Reach out to discuss anything from **web development** to **designing**.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jiamir.Jiamir)
 
@@ -35,12 +35,6 @@
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
    	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkaison&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
-  </a><br><br>
-
-## ☄️ GitHub Streaks
-
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
-  	<img height="200px" src="https://streak-stats.demolab.com?user=Jiamir&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
   </a><br><br>
 
 ## 📧 Connect with me:
