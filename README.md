@@ -7,7 +7,7 @@ Final-year Software Engineering student with a focus on building practical, user
 - **AI and Machine Learning**
 - **Graphic Designing**  
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jiamir)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jiamir.Jiamir)
 
 ## 💻 Technology Proficiencies
 
