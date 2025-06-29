@@ -5,7 +5,7 @@ Final-year Software Engineering student with a focus on building practical, user
 
 - **Mobile & Web Development**
 - **AI and Machine Learning**
-- **Graphic Designing**  
+- **Graphic Designing**  <br>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jiamir.Jiamir)
