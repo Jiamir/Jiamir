@@ -13,11 +13,11 @@ Final-year Software Engineering student with a focus on building practical, user
 ## 💻 Technology Proficiencies
 
 ### Frontend & UI  
-<code><img height="27" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=073B4C" alt="React.js" title="React"></code>
-<code><img height="27" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=118AB2" alt="React Native" title="React Native"></code>
-<code><img height="27" src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=52B788" alt="Framer Motion" title="Framer Motion"></code>
-<code><img height="27" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=1B4332" alt="Tailwind CSS" title="Tailwind CSS"></code>
-<code><img height="27" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=A53860" alt="Bootstrap" title="Bootstrap"></code>
+<code><img height="27" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" title="React.js"></code>
+<code><img height="27" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" title="React Native"></code>
+<code><img height="27" src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" title="Framer Motion"></code>
+<code><img height="27" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS"></code>
+<code><img height="27" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap"></code>
 
 ### AI / ML & Data  
 <code><img height="27" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch"></code>
